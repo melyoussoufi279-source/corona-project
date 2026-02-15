@@ -7,7 +7,7 @@ Ce projet vise à prédire l'infection au SARS-CoV-2 à partir de données clini
 https://github.com/melyoussoufi279-source/corona-project
 
 ## Structure du Projet
-```bash
+
 corona-project/
 │
 ├── data/                      # Contient le fichier de dataset daataset.xlsx.xlsx
