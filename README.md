@@ -18,7 +18,7 @@ corona-project/
 ├── notebooks/
 │   └── Corona_virus (5).ipynb
 ├── reports/
-├── main.py
+├
 ├── requirements.txt
 └── README.md
 ```
