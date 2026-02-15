@@ -7,16 +7,23 @@ Ce projet vise à prédire l'infection au SARS-CoV-2 à partir de données clini
 https://github.com/melyoussoufi279-source/corona-project
 
 ## Structure du Projet
+```bash
 corona-project/
-├── data/                  # Contient le fichier de dataset `daataset.xlsx.xlsx`
-├── notebooks/             # Notebooks d'analyse exploratoire
+│
+├── data/                      # Contient le fichier de dataset daataset.xlsx.xlsx
+│
+├── notebooks/                  # Notebooks d'analyse exploratoire
 │   └── Corona_virus (5).ipynb
-├── src/                   # Code source
-│   ├── preprocessing.py   # Prétraitement et préparation des données
-│   └── train.py           # Entraînement et tracking MLflow
-├── reports/               # Rapport LaTeX et images générées
-├── README.md              # Documentation (ce fichier)
-└── requirements.txt       # Dépendances Python
+│
+├── src/                        # Code source
+│   ├── preprocessing.py        # Prétraitement et préparation des données
+│   └── train.py                # Entraînement et tracking MLflow
+│
+├── reports/                    # Rapport LaTeX et images générées
+│
+├── README.md                   # Documentation (ce fichier)
+│
+└── requirements.txt            # Dépendances Python
 
 ## Installation des dépendances Python
 Pour installer toutes les dépendances nécessaires, exécutez :
